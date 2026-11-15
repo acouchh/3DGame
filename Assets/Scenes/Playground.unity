@@ -1501,12 +1501,28 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3012501002317875880, guid: 0e86278a33a9547889a59beb9157143f, type: 3}
+      propertyPath: m_ClearFlags
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3012501002317875880, guid: 0e86278a33a9547889a59beb9157143f, type: 3}
+      propertyPath: field of view
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 3012501002317875880, guid: 0e86278a33a9547889a59beb9157143f, type: 3}
+      propertyPath: m_FOVAxisMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4245754554652185827, guid: 0e86278a33a9547889a59beb9157143f, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4245754554652185827, guid: 0e86278a33a9547889a59beb9157143f, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4428876237562628242, guid: 0e86278a33a9547889a59beb9157143f, type: 3}
+      propertyPath: cameraDistance
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327089650748452798, guid: 0e86278a33a9547889a59beb9157143f, type: 3}
